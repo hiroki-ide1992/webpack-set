@@ -1,0 +1,8 @@
+@import './base/mixin/media.scss';
+@import './base/setting/base.scss';
+@import './base/utility/**.scss';
+
+.test {
+  width: 300px;
+  height: 200px;
+}
